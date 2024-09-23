@@ -2,7 +2,8 @@ package com.iutblagnac.r303trace;
 
 /**
  * Hello world!
- *
+ * 
+ * @author THEOPHILE Adrien 
  */
 public class App 
 {
